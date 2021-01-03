@@ -1,0 +1,2 @@
+网易云音乐歌词缓存文件一般在：C:\Users\用户名\AppData\Local\Netease\CloudMusic\webdata\lyric
+重点注意：用户在第一次此程序之前需将相关文件夹清空！！！
